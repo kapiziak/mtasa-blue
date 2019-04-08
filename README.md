@@ -42,5 +42,5 @@ For in-game videos, head over to [MTAQA on YouTube](http://www.youtube.com/user/
 
 Unless otherwise specified, all source code hosted on this repository is licensed under the GPLv3 license. See the LICENSE file for more details.
 
-Grand Theft Auto and all related trademarks are © Rockstar North 1997-2009.
+Grand Theft Auto and all related trademarks are © Rockstar North 1997-2009
 
